@@ -1,7 +1,7 @@
 # Amazon-Sale-Report--EDA-project
 
-This repository contains an Exploratory Data Analysis (EDA) of an Amazon sales dataset. The goal of this project is to gain insights into the sales data and identify potential areas for improvement.
-
+This repository contains an Exploratory Data Analysis (EDA) of an Amazon sales dataset. The goal of this project is to gain insights into the sales data and identify potential areas for improvement.<be>
+#### Dataset: ([Amazon Sale Report.csv](https://www.kaggle.com/datasets/mdsazzatsardar/amazonsalesreport))
 ## Table of Contents
 
 - [Import Packages](#import-packages)
